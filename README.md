@@ -1,6 +1,6 @@
 # Noon Light - PCB
 
-Electonics for building RaspberryPico(W) based, LED Strip driving, DMX fixture
+Electronics for a RaspberryPico(W) based, LED Strip driving, DMX fixture
 
 ## Schematics
 
